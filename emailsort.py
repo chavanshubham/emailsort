@@ -35,8 +35,6 @@ def main():
 
     service = build('gmail', 'v1', credentials=creds)
 
-
-
     # Check label
 
     def label_check(label_name):

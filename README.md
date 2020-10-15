@@ -3,7 +3,7 @@ Create Labels and sort matching emails into the label based on subject lines. Yo
 
 # SETUP GUIDE:
 
-Python3 is used for this project. Install python3 on your machine and use the python3 command to run the script.
+Python3 is used for this project. Install python3 on your machine and use the python3 command to run the script. The script also uses the Gmail API to access gmail data.
 
 # 1. Download and install Python3 on your machine.
 
